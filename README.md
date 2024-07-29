@@ -7,7 +7,8 @@
 
 - [Instalación]
   Clonar el repo 
-  ```bash
-$ git clone 
 ```
-  Puedes ir cambiando los nombres por config.rasi
+  bash 
+  $ git clone 
+```
+  Puedes ir cambiando los nombres por config.rasi.
