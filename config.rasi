@@ -27,9 +27,7 @@ window {
     padding:                     0px;
     border:                      2px;
     border-radius:               40px;
-    
-    //color del borde de la ventana
-    border-color:                #ffffff;//#044FC9; //#ff0000;
+    border-color:                #ffffff; //#ff0000;
     background-color:            transparent;
 }
 mainbox {
@@ -38,7 +36,7 @@ mainbox {
     orientation:                 horizontal;
     children:                    [  "inputbar" , "listbox" ];
     background-color:            transparent;
-    background-image:            url("/home/epharedam/.config/rofi/img/91d.jpg", height);
+    background-image:            url("/home/epharedam/.config/rofi/img/peakpx.jpeg", height);
 }
 
 
@@ -48,7 +46,7 @@ inputbar {
     width:                       580px;
     children:                    [ "mode-switcher" , "entry" ];
     background-color:            transparent;
-    background-image:            url("/home/epharedam/.config/rofi/img/91d.jpg", height);
+    background-image:            url("/home/epharedam/.config/rofi/img/xiao2.jpg", height);
 }
 entry {
     enabled:                     false;
@@ -64,16 +62,16 @@ mode-switcher{
     padding:                     160px 10px 160px 10px;
     spacing:                     25px;
     background-color:            transparent;
-   background-image:            url("/home/epharedam/.config/rofi/img/91d.jpg", height);
+   background-image:            url("/home/epharedam/.config/rofi/img/xiao2.jpg", height);
 }
 button {
     cursor:                      pointer;
     border-radius:               50px;
-    background-color:            #ffffff; //#ff0000;
+    background-color:            #00A7A7; //#ff0000;XIAO COLOR AQUA
     text-color:                  #000000;
 }
 button selected {
-    background-color:            #ffffff; //#ff0000;
+    background-color:            #C592E1; //#ff0000;MORADITO
     text-color:                  @main-bg;
 }
 
@@ -116,10 +114,8 @@ element {
         orientation:             vertical;
     }
 }
-
-//menu colores
 element selected.normal {
-    background-color:            #ffffff; //#ff0000;
+    background-color:            #00A7A7; //#ff0000;
     text-color:                  @select-fg;
 }
 element-icon {
@@ -135,4 +131,3 @@ element-text {
     background-color:            transparent;
     text-color:                  inherit;
 }
-
