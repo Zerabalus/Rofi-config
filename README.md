@@ -1,24 +1,40 @@
-<h1 align="center">MY ROFI configs</h1>
+<h1 align="center">My Anime inspired ROFI configs</h1>
 
 ### Tabla de contenido
 
 - [Requisitos]
-  - ROFI
+  - Have ROFI installed
 
 - [Instalación]
-  Clonar el repo 
+
+  Clonar el repo || Clone the repo
 ```
   bash 
   $ git clone https://github.com/Zerabalus/Rofi-config.git
 ```
-Basta con cambiar los nombres por config y la terminaxión .txt por .rasi
+Pega toda la carpeta en tu folder de rofi, por ejemplo la mía esta en ~/.config/rofi
 
-### Temas
+Paste the whole content in your rofi folder, for example mine is in ~/.config/rofi
+
+Luego basta con cambiar los nombres por config y la terminación .txt por .rasi con el que más te guste
+
+You only have to change the names that have .txt with .rasi and the name to config to the one you choose.
+
+
+### Temas|Themes
 - Hacker (Akudama Drive)
 - Yatora Yaguchi (Blue Period)
 - Lloyd de Saloum (I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability)
 - Avilio Bruno (91 days)
 - Hunter (Bloodborne)
+- The Herta (Honkai Star Rail)
+
+### Previews 
+
+- I'll be updating the previews, all work but soemtimes I change everything and forget the screenshots lol
+
+![The Herta](previews/the-herta.png)
+
 
 
 
