@@ -5,20 +5,21 @@
 - [Requisitos]
   - Have ROFI installed
 
-- [Instalación]
+- [Instalación || Install]
 
   Clonar el repo || Clone the repo
 ```
   bash 
   $ git clone https://github.com/Zerabalus/Rofi-config.git
 ```
-Pega toda la carpeta en tu folder de rofi, por ejemplo la mía esta en ~/.config/rofi
 
-Paste the whole content in your rofi folder, for example mine is in ~/.config/rofi
+## Instalacion Esp.
+- Pega toda la carpeta en tu folder de rofi, por ejemplo la mía esta en ~/.config/rofi
+- Luego basta con cambiar los nombres por config y la terminación .txt por .rasi con el que más te guste
 
-Luego basta con cambiar los nombres por config y la terminación .txt por .rasi con el que más te guste
-
-You only have to change the names that have .txt with .rasi and the name to config to the one you choose.
+## Installation Eng.
+- Paste the whole content in your rofi folder, for example mine is in ~/.config/rofi
+- You only have to change the names that have .txt with .rasi and the name to config to the one you choose.
 
 
 ### Temas|Themes
@@ -31,9 +32,11 @@ You only have to change the names that have .txt with .rasi and the name to conf
 
 ### Previews 
 
-- I'll be updating the previews, all work but soemtimes I change everything and forget the screenshots lol
+- I'll be updating the previews, all work but sometimes I change everything and forget to take the screenshots lol
 
 ![The Herta](previews/the-herta.png)
+
+![Hunter - Bloodborne](previews/hunter.jpg)
 
 
 
