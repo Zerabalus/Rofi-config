@@ -29,12 +29,15 @@
 - Avilio Bruno (91 days)
 - Hunter (Bloodborne)
 - The Herta (Honkai Star Rail)
+- Guts (Berserk)
 
 ### Previews 
 
 - I'll be updating the previews, all work but sometimes I change everything and forget to take the screenshots lol
 
-![The Herta](previews/the-herta.png)
+![The Herta- Honkai Star Rail](previews/the-herta.png)
+
+![Guts - Berserk](previews/guts.png)
 
 ![Hunter - Bloodborne](previews/hunter.jpg)
 
