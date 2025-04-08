@@ -30,6 +30,7 @@
 - Hunter (Bloodborne)
 - The Herta (Honkai Star Rail)
 - Guts (Berserk)
+- Furina (Genshin Impact)
 
 ### Previews 
 
@@ -41,7 +42,7 @@
 
 ![Hunter - Bloodborne](previews/hunter.jpg)
 
-
+![Furina - Genshin Impact](previews/furina.png)
 
 
   
