@@ -25,9 +25,9 @@ window {
     cursor:                      "default";
     spacing:                     0px;
     padding:                     0px;
-    border:                      4px;
+    border:                      2px;
     border-radius:               40px;
-    border-color:                #7483C0; //#ff0000;
+    border-color:                #ffffff; //#ff0000;
     background-color:            transparent;
 }
 mainbox {
@@ -36,7 +36,7 @@ mainbox {
     orientation:                 horizontal;
     children:                    [  "inputbar" , "listbox" ];
     background-color:            transparent;
-    background-image:            url("/home/epharedam/.config/rofi/img/sunday.png", height);
+    background-image:            url("/home/epharedam/.config/rofi/img/Furinab.png", height);
 }
 
 
@@ -46,7 +46,7 @@ inputbar {
     width:                       580px;
     children:                    [ "mode-switcher" , "entry" ];
     background-color:            transparent;
-    background-image:            url("/home/epharedam/.config/rofi/img/sunday.png", height);
+    background-image:            url("/home/epharedam/.config/rofi/img/Furinab.png", height);
 }
 entry {
     enabled:                     false;
@@ -62,17 +62,17 @@ mode-switcher{
     padding:                     160px 10px 160px 10px;
     spacing:                     25px;
     background-color:            transparent;
-   background-image:            url("/home/epharedam/.config/rofi/img/sunday.png", height);
+   background-image:            url("/home/epharedam/.config/rofi/img/Furinab.png", height);
 }
 button {
     cursor:                      pointer;
     border-radius:               50px;
-    background-color:            #5253A6; //#ff0000;XIAO COLOR AQUA
-    text-color:                  #ffffff;
+    background-color:            #7897ff; //#ff0000;
+    text-color:                  #000000;
 }
 button selected {
-    background-color:            #D4C086; //#ff0000;MORADITO
-    text-color:                  #ffffff;
+    background-color:            #2a12ff; //#ff0000;
+    text-color:                  @main-bg;
 }
 
 
@@ -115,7 +115,7 @@ element {
     }
 }
 element selected.normal {
-    background-color:            #7483C0; //#ff0000;
+    background-color:            #6186ff; //#ff0000;
     text-color:                  @select-fg;
 }
 element-icon {

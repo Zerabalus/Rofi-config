@@ -15,12 +15,21 @@
 
 ## Instalacion Esp.
 - Pega toda la carpeta en tu folder de rofi, por ejemplo la mía esta en ~/.config/rofi
-- Luego basta con cambiar los nombres por config y la terminación .txt por .rasi con el que más te guste
+- Luego basta con cambiar los nombres por config y la terminación .txt por .rasi con el que más te guste así como el directorio de donde se encontrarían las imágenes:
+
+```
+ background-image:         url("/home/epharedam(este es mi nombre de usuario)/.config/rofi/img/xiaob.jpeg", height);
+```
+
+
 
 ## Installation Eng.
 - Paste the whole content in your rofi folder, for example mine is in ~/.config/rofi
-- You only have to change the names that have .txt with .rasi and the name to config to the one you choose.
+- Change the names that have .txt with .rasi and the name to config to the one you choose and also the directory of the images to fit yours, as an example most url are:
 
+```
+ background-image:         url("/home/epharedam(change this since this is my user)/.config/rofi/img/xiaob.jpeg", height);
+```
 
 ### Temas|Themes
 - Hacker (Akudama Drive)
@@ -31,6 +40,9 @@
 - The Herta (Honkai Star Rail)
 - Guts (Berserk)
 - Furina (Genshin Impact)
+- Xiao (Genshin Impact)
+- Sunday (Honkai Star Rail)
+
 
 ### Previews 
 
